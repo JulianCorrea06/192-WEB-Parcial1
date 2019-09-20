@@ -22,9 +22,9 @@
     margin-bottom: 5px;
     background-color: rgb(32, 64, 124);
     color: white;
-    padding: 5px;
-    width: 280px;
-    border-radius: 2rem;
+    padding: 3px;
+    width: 200px;
+    border-radius: 2px;
 }
 
 p {
