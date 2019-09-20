@@ -1,0 +1,32 @@
+
+
+.inputplace{
+    border: 2px;
+    border-color: rgb(46, 70, 173);
+    height: 20px;
+    width: 10%;
+    margin-top: 20vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inputplace input{
+    align-content: center;
+    border-color: rgb(46, 70, 173);
+    height: 30px;
+    width: 200px;
+}
+
+.mesagges{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: rgb(32, 64, 124);
+    color: white;
+    padding: 5px;
+    width: 280px;
+    border-radius: 2rem;
+}
+
+p {
+    display: block;
+}
